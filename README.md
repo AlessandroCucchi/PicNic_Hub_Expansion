@@ -119,13 +119,6 @@ population + area + wages + boundaries ──► 400-district table ──► Pi
    - Hanau (Main-Kinzig): probably infill for the Offenbach site.
 5. **Validate with internal data before committing:** overlay waiting-list sign-ups by postcode for the three areas, then start the hub site search.
 
-**Limitations:**
-- The Picnic footprint comes from public evidence, so it is incomplete.
-- Districts are coarse units, and a 1 km² population grid would be better.
-- Wages appear to be measured at the place of work.
-- Competition, rents and labour supply are not modelled.
-- The weights are set by judgement. With hub performance data they could be learned instead.
-
 <a id="repository-and-how-to-run"></a>
 [![Repository and How to Run](images/h_repo.svg)](images/h_repo.svg)
 
