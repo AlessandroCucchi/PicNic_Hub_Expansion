@@ -1,0 +1,57 @@
+district_id,district_name,site_type,evidence,source_url
+05111,Düsseldorf,hub,German HQ (Rather Str. 49d) and hub Düsseldorf-Nord (Mündelheimer Weg 50); first Düsseldorf hub opened 2020,https://logistik-heute.de/news/lebensmittellogistik-picnic-eroeffnet-zweiten-standort-einer-stadt-32450.html
+05162,Rhein-Kreis Neuss,hub,"Hub Hermann-Klammt-Straße 5; Neuss, Kaarst and Meerbusch were the first German Picnic cities (2018)",https://www.tageskarte.io/industrie/detail/picnic-liefert-ab-april.html
+05116,Mönchengladbach,delivery area,Served since 2019,https://lebensmittelpraxis.de/lp-international/24664-picnic-startet-ins-ruhrgebiet-2019-05-27-08-49-04.html
+05114,Krefeld,delivery area,Served since 2019,https://lebensmittelpraxis.de/lp-international/24664-picnic-startet-ins-ruhrgebiet-2019-05-27-08-49-04.html
+05166,Kreis Viersen,delivery area,Served since 2019,https://lebensmittelpraxis.de/lp-international/24664-picnic-startet-ins-ruhrgebiet-2019-05-27-08-49-04.html
+05911,Bochum,hub,First Ruhr-area hub (2019),https://www.verkehrsrundschau.de/nachrichten/transport-logistik/picnic-erweitert-liefernetz-2977409
+05112,Duisburg,hub,Duisburg hub also serves parts of Mülheim,https://onlinemarktplatz.de/204175/picnic-erweitert-sein-liefergebiet-und-beliefert-ab-sofort-den-stadtbezirk-linksruhr-in-muelheim-an-der-ruhr/
+05117,Mülheim an der Ruhr,hub or distribution centre,Site Neustadtstraße 25; Linksruhr district served from the Duisburg hub,"https://onlinemarktplatz.de/204175/picnic-erweitert-sein-liefergebiet-und-beliefert-ab-sofort-den-stadtbezirk-linksruhr-in-muelheim-an-der-ruhr/ | Address list compiled from Google Maps business listings (author research, Nov 2026)"
+05119,Oberhausen,fulfilment centre,"Large highly automated fulfilment centre, Goldammerweg 3","https://jobs.picnic.app/jobs/J9SOWXAI | Address list compiled from Google Maps business listings (author research, Nov 2026)"
+05562,Kreis Recklinghausen,hub,"Hub in Herten-Westerholt serving Herten, Marl and Recklinghausen",https://onlinemarktplatz.de/197706/online-supermarkt-picnic-expandiert-weiter-im-ruhrgebiet/
+05316,Leverkusen,hub,950 m² hub serving ~83k households,https://onlinemarktplatz.de/201898/picnic-kommt-nach-leverkusen-und-erweitert-sein-bestehendes-liefergebiet-in-duesseldorf/
+05315,Köln,hub,Last-mile hub in Köln (job ad); expansion to left-bank Köln,https://jobs.picnic.app/jobs/JYOPIR4A
+05915,Hamm,warehouse,"Site K'Park-Straße 15-17 (Hamm-Uentrop), large regional warehouse; city hub opened Sep 2026",https://www.lippewelle.de/artikel/picnic-eroeffnet-auslieferungslager-fuer-hamm-2752850
+05913,Dortmund,delivery area,Named as test city for the Picnic Family subscription (2026),https://www.monsterdealz.de/magazin/picnic-supermarkt
+05711,Bielefeld,delivery area,Named as test city for the Picnic Family subscription (2026),https://www.monsterdealz.de/magazin/picnic-supermarkt
+02000,Hamburg,hub,"Office/hub Pinnasberg 47 (Altona) and site Reiherstieg-Hauptdeich 39-47; city hubs in Billbrook, Langenhorn and Rellingen","https://www.electrive.net/2023/04/12/picnic-startet-e-lieferungen-in-norddeutschland/ | Address list compiled from Google Maps business listings (author research, Nov 2026)"
+01056,Kreis Pinneberg,hub,Rellingen hub; Halstenbek served,https://www.electrive.net/2023/04/12/picnic-startet-e-lieferungen-in-norddeutschland/
+01060,Kreis Segeberg,delivery area,Norderstedt served,https://www.electrive.net/2023/04/12/picnic-startet-e-lieferungen-in-norddeutschland/
+11000,Berlin,hub,"Hubs in Tegel, Tempelhof, Marienfelde, Spandau",https://www.tagesspiegel.de/berlin/berliner-wirtschaft/lieferdienst-picnic-erobert-berlins-osten-zwei-online-supermarkte-ringen-um-berlin-11486783.html
+12072,Teltow-Fläming,fulfilment centre,"Fulfilment centre Uferring 1, Ludwigsfelde (robotic expansion planned)",https://www.tagesspiegel.de/berlin/berliner-wirtschaft/lieferdienst-picnic-erobert-berlins-osten-zwei-online-supermarkte-ringen-um-berlin-11486783.html
+12064,Märkisch-Oderland,hub,City hub in Hoppegarten,https://www.tagesspiegel.de/berlin/berliner-wirtschaft/lieferdienst-picnic-erobert-berlins-osten-zwei-online-supermarkte-ringen-um-berlin-11486783.html
+12053,Frankfurt (Oder),hub,Last-mile hub (job ad),https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-last-mile-logistik-frankfurt-an-der-oder-brandenburg-95380
+04011,Bremen,warehouse,Warehouse Louis-Krages-Straße 30-38,https://jobs.picnic.app/jobs/J9SOWXAI
+03241,Region Hannover,hub or distribution centre,Site in Sehnde (Hedwig-Kohn-Straße); launch in Hannover April 2024,"https://www.fim-online.de/marktueberblick/news/picnic-plant-massive-expansion-mit-ueber-20-neuen-standorten | Address list compiled from Google Maps business listings (author research, Nov 2026)"
+06411,Darmstadt,delivery area,Launch in Darmstadt (2023),https://lebensmittelpraxis.de/handel-aktuell/37749-lieferdienst-picnic-startet-in-darmstadt.html
+06414,Wiesbaden,delivery area,Launch in Wiesbaden (2023),https://lebensmittelpraxis.de/handel-aktuell/37749-lieferdienst-picnic-startet-in-darmstadt.html
+07315,Mainz,delivery area,Launch in Mainz (2023),https://lebensmittelpraxis.de/handel-aktuell/37749-lieferdienst-picnic-startet-in-darmstadt.html
+06431,Kreis Bergstraße,fulfilment centre,Fulfilment centre in Viernheim for south-west Germany,https://www.eurotransport.de/logistik/spedition-und-logistik/picnic-startet-in-drei-weiteren-bundeslaendern-neues-fulfillment-center-in-viernheim/
+08222,Mannheim,delivery area,Launch in Mannheim (2023),https://retailtrends.nl/news/pdf/70322
+08111,Stuttgart,delivery area,Launch in Stuttgart,https://www.stuttgarter-zeitung.de/wirtschaft/picnic-lieferdienst-startschuss-in-stuttgart-78893325.html
+09162,München,delivery area,Delivery driver jobs in München,https://www.randstad.de/jobs/q-picnic/
+09177,Landkreis Erding,hub,Courier jobs in Erding,https://stepstone.de/jobs/pfoertner/in-haag-in-oberbayern
+09564,Nürnberg,warehouse,Picnic Nürnberg warehouse listed in job ad,https://jobs.picnic.app/jobs/J9SOWXAI
+09679,Landkreis Würzburg,hub,Hub in Rottendorf near Würzburg opening mid-September 2026,https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-last-mile-logistik-wurzburg-bavaria-60238
+09461,Bamberg,hub,Delivery driver jobs in Bamberg,https://www.stepstone.de/jobs/auto/in-oberhaid_bayern
+14612,Dresden,hub,New last-mile hub in Dresden (job ad),https://jobs.weekday.works/picnic-team-leader-last-mile-logistics-%28m%2Ff%2Fd%29
+15088,Saalekreis,fulfilment centre,Site in Großkugel / Kabelsketal serving Halle–Leipzig area,https://halle-investvision.de/news/300-arbeitsplaetze-und-nachhaltige-logistik-der-supermarkt-auf-raedern-picnic-startet-in-halle-saale/
+15002,Halle (Saale),delivery area,220k-household delivery area between Merseburg and Delitzsch,https://halle-investvision.de/news/300-arbeitsplaetze-und-nachhaltige-logistik-der-supermarkt-auf-raedern-picnic-startet-in-halle-saale/
+14730,Nordsachsen,delivery area,Delitzsch and Schkeuditz in the Halle delivery area,https://halle-investvision.de/news/300-arbeitsplaetze-und-nachhaltige-logistik-der-supermarkt-auf-raedern-picnic-startet-in-halle-saale/
+15003,Magdeburg,hub,Last-mile hub in Magdeburg (job ad),https://www.hirebase.org/company/picnic-technologies/jobs/hub-lead-m-w-d-7036e05d
+05113,Essen,hub,"1,200 m² hub in northern Essen serving 125k+ households (2019)",https://lebensmittelpraxis.de/handel-aktuell/25512-picnic-neu-in-essen-2019-10-08-09-28-30.html
+05513,Gelsenkirchen,hub,Fourth Ruhr-area hub,https://www.lebensmittelzeitung.net/handel/online-handel/Online-Supermarkt-Picnic-fuehrt-Expansion-im-Ruhrgebiet-fort-142267
+05170,Kreis Wesel,hub,Moers hub (one of the first Ruhr-area sites),https://lebensmittelpraxis.de/handel-aktuell/25512-picnic-neu-in-essen-2019-10-08-09-28-30.html
+05916,Herne,fulfilment centre,"Fulfilment centre and hub, Südstraße 48",https://lebensmittelpraxis.de/handel-aktuell/27969-picnic-neu-in-herne-2020-07-23-09-18-19.html
+05124,Wuppertal,delivery area,90k households in Wuppertal and neighbouring Schwelm,https://lebensmittelpraxis.de/handel-aktuell/32069-online-supermarkt-picnic-liefert-jetzt-auch-in-wuppertal.html
+05954,Ennepe-Ruhr-Kreis,delivery area,Schwelm served together with Wuppertal,https://lebensmittelpraxis.de/handel-aktuell/32069-online-supermarkt-picnic-liefert-jetzt-auch-in-wuppertal.html
+05515,Münster,hub,Hub in Münster-Loddenheide serving ~105k households,https://lebensmittelpraxis.de/handel-aktuell/28776-online-lieferdienst-picnic-startet-in-muenster-2020-10-15-09-58-47.html
+05314,Bonn,delivery area,Started delivering in the north of Bonn area,https://www.emerce.nl/?p=4496150
+05382,Rhein-Sieg-Kreis,delivery area,Bornheim and Alfter served,https://www.emerce.nl/?p=4496150
+05362,Rhein-Erft-Kreis,delivery area,Wesseling served,https://www.emerce.nl/?p=4496150
+05570,Kreis Warendorf,hub,Hub in Beckum (courier job ad),https://jobjump.net/jobs/lieferfahrer-mwd-8be89d2f-1aee-5d28-af7e-0d490b1c6da7
+14713,Leipzig,fulfilment centre,Warehouse named 'Picnic Leipzig' (Kabelsketal) serving the Leipzig–Halle area,https://jobs.picnic.app/jobs/J9SOWXAI
+03102,Salzgitter,hub or distribution centre,Site Hüttenstraße 32a; courier job ads in Salzgitter,"https://www.stepstone.de/results/in-w%c3%bclperode | Address list compiled from Google Maps business listings (author research, Nov 2026)"
+05158,Kreis Mettmann,hub or distribution centre,Site in Langenfeld (Winkelsweg 177),"Address list compiled from Google Maps business listings (author research, Nov 2026)"
+06413,Offenbach am Main,hub or distribution centre,"Site Carl-Legien-Straße 15, Offenbach am Main","Address list compiled from Google Maps business listings (author research, Nov 2026)"
+01004,Neumünster,hub or distribution centre,"Site Allerstraße 2, Neumünster","Address list compiled from Google Maps business listings (author research, Nov 2026)"
